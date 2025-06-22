@@ -200,7 +200,7 @@ python -m unittest test_algorithm.py
 
 ## Live Demo
 
-A live demo of this application is available at: [Add your Streamlit Cloud link here]
+A live demo of this application is available at: [https://algorithms-and-programming-ii-semester-capstone-project-yzglle.streamlit.app]
 
 ## Limitations and Future Improvements
 
@@ -232,9 +232,9 @@ A live demo of this application is available at: [Add your Streamlit Cloud link 
 
 ## Author
 
-- **Name:** Taha Pinar
-- **Student ID:** [Your Student ID Here]
-- **GitHub:** [yourgithubusername]
+- **Name:** Yusuf Emre Yüzügüllü
+- **Student ID:** [230543020]
+- **GitHub:** (https://github.com/YzgllE)
 
 ## Acknowledgements
 
